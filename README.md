@@ -1,0 +1,1 @@
+# Sparta-rails-model-practice
